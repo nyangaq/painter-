@@ -1,0 +1,24 @@
+#qwe {
+ display: flex;
+ align-items: center;
+ 
+}
+#old {
+    height: 300px;
+    width: 200px;
+}
+#wer {
+    display: flex;
+    align-items: center;
+}
+#ges {
+    height: 300px;
+    width: 200px;
+}
+#footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px;
+}
